@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color:lightgray}
+h1   {color:white}
+p    {color:green}
+</style>
+</head>
+<body>
+<h1> Students Personal Information </h1>
+
+<p> 1. Mariah Siwela 29619999 </p><br><br>
+<p> 2. Temusa Matsebula 11278902</p>
+
+<?php
+echo "Mariah Siwela u29619999";
+echo "Temusa Matsebula 11278902";
+?>
+
+</body>
+</html>
